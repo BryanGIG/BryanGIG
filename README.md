@@ -2,7 +2,7 @@
 
 ### Statistics :
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BryanGIG&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanGIG&layout=compact)]()
 
 ### Languages :
 [<img align="left" width="26" alt="Kotlin" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/kotlin.svg">](https://kotlinlang.org)
