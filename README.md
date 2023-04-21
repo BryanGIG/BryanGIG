@@ -27,4 +27,4 @@ My name is Bryan, I'm passionate about android game modding, and I love to watch
 
 ## Contact
 
-You can reach me at [Email](contacts.bryangig@gmail.com) or [Telegram](t.me/C202AA). Let's connect!
+You can reach me at [Email](mailto:contacts.bryangig@gmail.com) or [Telegram](https://t.me/C202AA). Let's connect!
