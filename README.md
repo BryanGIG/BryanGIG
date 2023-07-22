@@ -14,11 +14,6 @@ My name is Bryan, I'm passionate about android game modding, and I love to watch
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BryanGIG&repo=KMrite&theme=dracula&show_owner=true" />
 </a>
 
-## Github Statistics 
-<a href="https://github.com/BryanGIG">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BryanGIG&theme=dracula&count_private=true&show_icons=true" />
-</a>
-
 
 ## Most used languages
 <a href="https://github.com/BryanGIG">
